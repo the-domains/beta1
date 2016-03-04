@@ -1,0 +1,12 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5591398
+  lightness: 0
+  brandStrength: 0.7956989
+  brandColors:
+    - '#0A0B0E'
+    - '#8A9090'
+    - '#FCFFFF'
+  rhythmicContrast: 0.8289591
+typography_spectrum: 0.6272401
+name: Beta1
