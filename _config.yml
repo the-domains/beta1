@@ -1,12 +1,24 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6272401
 color:
   saturation: 0.5591398
+  brandStrength: 1
   lightness: 0
-  brandStrength: 0.7956989
   brandColors:
     - '#0A0B0E'
     - '#8A9090'
     - '#FCFFFF'
   rhythmicContrast: 0.8289591
-typography_spectrum: 0.6272401
+layout_spectrum: 0
 name: Beta1
